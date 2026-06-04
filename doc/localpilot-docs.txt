@@ -1,14 +1,14 @@
-*my-template-docs.txt*
+*localpilot-docs.txt*
                               For Neovim >= 0.8.0    Last change: 2026 June 04
 
 ==============================================================================
-Table of Contents                         *my-template-docs-table-of-contents*
+Table of Contents                         *localpilot-docs-table-of-contents*
 
-1. LocalPilot                                    |my-template-docs-localpilot|
-2. Links                                              |my-template-docs-links|
+1. LocalPilot                                    |localpilot-docs-localpilot|
+2. Links                                              |localpilot-docs-links|
 
 ==============================================================================
-1. LocalPilot                                    *my-template-docs-localpilot*
+1. LocalPilot                                    *localpilot-docs-localpilot*
 
 
 
@@ -16,7 +16,7 @@ A neovim plugin that works like `copilot.lua` but uses a local model like
 `gemma-4` ran via a tool like `lmstudio`.
 
 ==============================================================================
-2. Links                                              *my-template-docs-links*
+2. Links                                              *localpilot-docs-links*
 
 1. *GitHub Workflow Status*: https://img.shields.io/github/actions/workflow/status/schlerp/localpilot/lint-test.yml?branch=main&style=for-the-badge
 2. *Lua*: https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua
